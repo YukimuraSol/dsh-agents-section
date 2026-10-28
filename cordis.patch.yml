@@ -1,0 +1,4 @@
+# Loader patch for the dsh-agents-section bundle: one row, named after the package.
+- insert:
+    - id: agents-section
+      name: dsh-agents-section
